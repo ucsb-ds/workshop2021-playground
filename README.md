@@ -11,7 +11,7 @@ We encourage you to add your information below -- GitHub uses a formatting langu
 * [`lvkd84`](https://github.com/lvkd84) - Kha-Dinh Luong - PhD Student
 
 # Summer 2021 Workshop Participants
-* TODO: add your name and github ID
+* [`harperklauke`](https://github.com/harperklauke) - Harper Klauke
 
 * (https://github.com/TeresaGonz) - Teresa Gonzalez
 * [`Y-D-L`](https://github.com/Y-D-L) - Yan Lashchev, UCSB Math/Stats undergrad student
