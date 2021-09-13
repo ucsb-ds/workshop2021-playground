@@ -8,7 +8,6 @@ We encourage you to add your information below -- GitHub uses a formatting langu
 
 # Maintainers of this repo
 * [`ykharitonova`](https://github.com/ykharitonova) - Yekaterina Kharitonova, UCSB CS Professor
-* Kha-Dinh Luong (https://github.com/lvkd84/) - PhD Student
 
 
 
