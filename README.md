@@ -13,6 +13,6 @@ We encourage you to add your information below -- GitHub uses a formatting langu
 
 # Summer 2021 Workshop Participants
 * TODO: add your name and github ID
-
+* (https://github.com/TeresaGonz) - Teresa Gonzalez
 # Other contributors who came across this workshop
 * We look forward to your Pull Requests
