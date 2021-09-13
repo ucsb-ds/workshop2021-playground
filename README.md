@@ -13,7 +13,7 @@ We encourage you to add your information below -- GitHub uses a formatting langu
 
 # Summer 2021 Workshop Participants
 * TODO: add your name and github ID
-* [`PK0207`](https://github.com/PK0207) - PK (she/her)
+* [`PK0207`](https://github.com/PK0207) - PK (she/her), UCSB Physics Student
 
 # Other contributors who came across this workshop
 * We look forward to your Pull Requests
