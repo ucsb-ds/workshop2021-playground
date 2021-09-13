@@ -16,7 +16,7 @@ We encourage you to add your information below -- GitHub uses a formatting langu
 * (https://github.com/TeresaGonz) - Teresa Gonzalez
 * [`Y-D-L`](https://github.com/Y-D-L) - Yan Lashchev, UCSB Math/Stats undergrad student
 * [`JordanTran`](https://github.com/JordanTran) - Jordan Tran
-
+* [`connor11son`](https://github.com/connor11son/) - Connor Levenson
 
 # Other contributors who came across this workshop
 * We look forward to your Pull Requests
