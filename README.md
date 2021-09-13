@@ -3,7 +3,7 @@ A testing repo for the UCSB Data Science Capstone Preparation Workshop
 
 # Maintainers
 * [`ykharitonova`](https://github.com/ykharitonova) - Yekaterina Kharitonova, UCSB CS Professor
-* Kha-Dinh Luong (https://github.com/lvkd84/)
+* Kha-Dinh Luong (https://github.com/lvkd84/) - PhD Student
 
 
 # Summer 2021 Participants
