@@ -1,5 +1,5 @@
 # workshop2021-playground
-Welcome!
+Welcome everyone!
 
 This is a testing repo for the [UCSB Data Science Capstone Preparation Workshop](https://ucsb-ds.github.io/workshop2021).
 It was created as part of the [Warm-up activity](https://ucsb-ds.github.io/workshop2021/intro-git#warm-up).
