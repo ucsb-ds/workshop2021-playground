@@ -1,4 +1,13 @@
+.DS_Store
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.jekyll-cache
+Gemfile.lock
+*.gem
+*.pyc
+*.swp
+
+# Jupyter Notebook
+.ipynb_checkpoints
