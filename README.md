@@ -19,6 +19,7 @@ We encourage you to add your information below -- GitHub uses a formatting langu
 * [`connor11son`](https://github.com/connor11son/) - Connor Levenson
 * [https://github.com/aradams11]- Annie Adams
 * [`a-bissell4`](http://github.com/a-bissell4) - Andrew Bissell, Stats & DS 4th Year
+* [`nyelise`](https://github.com/nyelise) - Elise Nguyen
 
 # Other contributors who came across this workshop
 * We look forward to your Pull Requests
