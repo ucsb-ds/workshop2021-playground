@@ -10,14 +10,15 @@ We encourage you to add your information below -- GitHub uses a formatting langu
 * [`ykharitonova`](https://github.com/ykharitonova) - Yekaterina Kharitonova, UCSB CS Professor
 * [`lvkd84`](https://github.com/lvkd84) - Kha-Dinh Luong - PhD Student
 
-
 # Summer 2021 Workshop Participants
 * TODO: add your name and github ID
+
 * (https://github.com/TeresaGonz) - Teresa Gonzalez
 * [`Y-D-L`](https://github.com/Y-D-L) - Yan Lashchev, UCSB Math/Stats undergrad student
 * [`JordanTran`](https://github.com/JordanTran) - Jordan Tran
 * [`connor11son`](https://github.com/connor11son/) - Connor Levenson
 * [https://github.com/aradams11]- Annie Adams
+* [`a-bissell4`](http://github.com/a-bissell4) - Andrew Bissell, Stats & DS 4th Year
 
 # Other contributors who came across this workshop
 * We look forward to your Pull Requests
