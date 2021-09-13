@@ -8,7 +8,7 @@ We encourage you to add your information below -- GitHub uses a formatting langu
 
 # Maintainers of this repo
 * [`ykharitonova`](https://github.com/ykharitonova) - Yekaterina Kharitonova, UCSB CS Professor
-* [`lvkd84`](https://github.com/lvkd84) - Kha-Dinh Luong
+* [`lvkd84`](https://github.com/lvkd84) - Kha-Dinh Luong, UCSB PhD Student
 
 
 # Summer 2021 Workshop Participants
