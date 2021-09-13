@@ -1,5 +1,5 @@
 # workshop2021-playground
-Welcome!
+Welcome everyone!
 
 This is a testing repo for the [UCSB Data Science Capstone Preparation Workshop](https://ucsb-ds.github.io/workshop2021).
 It was created as part of the [Warm-up activity](https://ucsb-ds.github.io/workshop2021/intro-git#warm-up).
@@ -8,7 +8,7 @@ We encourage you to add your information below -- GitHub uses a formatting langu
 
 # Maintainers of this repo
 * [`ykharitonova`](https://github.com/ykharitonova) - Yekaterina Kharitonova, UCSB CS Professor
-* [`lvkd84`](https://github.com/lvkd84) - Kha-Dinh Luong, UCSB PhD Student
+* [`lvkd84`](https://github.com/lvkd84) - Kha-Dinh Luong
 
 
 # Summer 2021 Workshop Participants
