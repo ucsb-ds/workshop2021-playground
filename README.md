@@ -9,10 +9,10 @@ We encourage you to add your information below -- GitHub uses a formatting langu
 # Maintainers of this repo
 * [`ykharitonova`](https://github.com/ykharitonova) - Yekaterina Kharitonova, UCSB CS Professor
 * [`lvkd84`](https://github.com/lvkd84) - Kha-Dinh Luong
-* [`a-bissell4`](http://github.com/a-bissell4) - Andrew Bissell, Stats & DS 4th Year
 
 # Summer 2021 Workshop Participants
 * TODO: add your name and github ID
+* [`a-bissell4`](http://github.com/a-bissell4) - Andrew Bissell, Stats & DS 4th Year
 
 # Other contributors who came across this workshop
 * We look forward to your Pull Requests
