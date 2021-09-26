@@ -20,7 +20,7 @@ We encourage you to add your information below -- GitHub uses a formatting langu
 * [https://github.com/aradams11]- Annie Adams
 * [`a-bissell4`](http://github.com/a-bissell4) - Andrew Bissell, Stats & DS 4th Year
 * [`nyelise`](https://github.com/nyelise) - Elise Nguyen
-* [`shantong`] (https://github.com/jasminekwok) - Jasmine Kwok
+* [`shantong`](https://github.com/jasminekwok) - Jasmine Kwok
 
 # Other contributors who came across this workshop
 * We look forward to your Pull Requests
